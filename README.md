@@ -1,0 +1,1 @@
+I am learning git and github and this is my C language repository where I'll push all my codes here of C language which will help me to learn git commands on my daily basis and also to maintain my streak.
