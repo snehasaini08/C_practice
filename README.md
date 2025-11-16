@@ -1,1 +1,1 @@
-I am learning git and github and this is my C language repository where I'll push all my codes here of C language which will help me to learn git commands on my daily basis and also to maintain my streak.
+I am learning git and github and this is my C language repository where I'll push all my codes of C language on my daily basis and also which will  not only help me in coding but also to learn git commands on my daily basis and also to maintain my streak of learning new day by day.
