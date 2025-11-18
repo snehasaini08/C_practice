@@ -55,7 +55,7 @@
 /*int main()
 {
     int i,j;
-    for(i=1,j=0;i<=100,j<3;i++,j++)//without j++ it was going to an infinite loop
+    for(i=1,j=0;i<=100,j<3;i++,j++)
     {
         printf("%d%d\n",i,j);
     }
@@ -97,7 +97,7 @@
 
 //2. if only uses i++ not j++
 
-int main()
+/*int main()
 {
     int i,j;
     for(i=1,j=0;i<=100 , j<3;)    //doubt in output
@@ -107,7 +107,14 @@ int main()
         j++;
     }
     return 0;
-}
+}*/
+int main(){
+    int i,j,k;
+    for(i=1,j=0,k=3;i<5,j<=6,k>1;i++,j++,k--);
+    {
+      printf("%d%d%d\n",i,j,k);
+    }
+  }
 
 
 
