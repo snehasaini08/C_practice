@@ -1,0 +1,23 @@
+/*#include<stdio.h>
+int main()
+{
+    int i=20;
+    while(i>=1)
+    {
+        printf("%d\n",i);
+        i=i-2;
+    }
+    return 0;
+}*/
+//odd
+#include<stdio.h>
+int main()
+{
+    int i=19;
+    while(i>=1)
+    {
+        printf("%d\n",i);
+        i=i-2;
+    }
+    return 0;
+}
