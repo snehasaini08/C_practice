@@ -12,16 +12,16 @@ int main()
             temp=i;
             if(temp%2==0)
             {
-            even=even+temp;
-          }
+            even = even+temp;
+            }
             else
             {
-                odd=odd+temp;
+            odd=odd + temp;
             }
         }
         i++;
     }
-    printf("Even factors are:%d\n",even);
-    printf("Odd factors area:%d\n",odd);
-    return 0;
+   printf("sum of Even factors are:%d\n",even);
+   printf("sum of Odd factors area:%d\n",odd);
+   return 0;
 }
