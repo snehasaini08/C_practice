@@ -1,1 +1,1 @@
-I am learning git and github and this is my C language repository where I'll push all my codes of C language on my daily basis and also this will not only help me in coding but also to learn git commands and their uses on my daily basis and also to maintain my streak of learning new day by day.
+This is my C language Repo. I want to be continutious in coding and also learning different tools i.e. git github ,so get into use of that on my daily basis I'll push all my codes of every language I'll learn and every project I'll make and I've started with C language.
