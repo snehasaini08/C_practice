@@ -26,6 +26,7 @@ int main()
     float *p,*q;  // a and b should also be of same datatype
     p=&a;
     q=&b;
+    //*q=*p;
     printf("a=%f %f %f\n",a,*p,*q);
     return 0;
 
