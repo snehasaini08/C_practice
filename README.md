@@ -1,1 +1,2 @@
-This is my C language Repo. I want to be continutious in coding and also learning different tools i.e. git and github ,so get into use of that on my daily basis I'll push all my codes of every language I'll learn and every project I'll make and I've started with C language.
+Just my C langugage practice.
+
