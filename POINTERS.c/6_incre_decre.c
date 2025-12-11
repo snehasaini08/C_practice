@@ -48,7 +48,7 @@ int main()
 
 //5
 
-{
+/*{
     int a[]={3,2,67,0,56};
     int *p;
     p=&a[3];
@@ -56,6 +56,17 @@ int main()
     printf("%d",*p);
     return 0;
 
+}*/
+
+{
+    int a[]={3,2,67,0,56};
+    {
+        int *p;
+        p=&a[3];
+        printf("%d\n",*p);
+        printf("%d %d %d %d %d %d",*--p ,*--p,*--p,--(*p),(*p)++,++(*p)); 
+        return 0;
+    }
 }
 
 
