@@ -78,7 +78,7 @@ float sum(void)
 
 
 //float sum(void);
-void main()
+/*void main()
 {
     sum();
 }
@@ -90,27 +90,23 @@ int sum(void)
     scanf("%f%f",&a,&b);
     sum=a+b;
     printf("sum=%f\n",sum);
+}*/
+
+char fun();
+
+void main()
+{
+    char ch;
+    ch=fun();
+    printf("ch=%c",ch);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+char fun()
+{
+    char c;
+    printf("Enter a char: ");
+    scanf("%c",&c);
+    return 'c';  // here return c only even if we take input anything, if only c then return our inp which we have take
+}
 
 
 
