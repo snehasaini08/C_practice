@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>1
 void sub()
 {
     int a,b,sub=0;
@@ -17,11 +17,12 @@ void sum()
     sub();
 }
 
+    
 void main()
 {
+
     sum();
     printf("Hello\n");
     sum();
     sum();
-    
 }
