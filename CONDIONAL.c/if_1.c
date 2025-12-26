@@ -5,10 +5,10 @@ int main()
     int a;
     printf("Enter a:");
     scanf("%d",&a);
-    if(a);
+    if(a)
     {
 
-    printf("Inside the if block");
+    printf("Inside the if block\n");
     printf("Value of a=%d\n",a);
     }
 printf("Outside the if block");
