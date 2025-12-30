@@ -11,8 +11,8 @@ void main()
 
 int sum(int a,int b)
 {
-    //int s=0;
-    //s=a+b;
+    int s=0;
+    s=a+b;
    // return s;
-    return a+b;
+    return s;
 }
