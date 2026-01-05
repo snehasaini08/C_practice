@@ -6,6 +6,7 @@ int main()
     printf("Enter a,b,c: ");
     scanf("%f\n %f\n %f",&a,&b,&c);
     D=b*b-4*a*c;
+    
 
 
     
