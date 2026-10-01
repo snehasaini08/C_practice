@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*int sum(void);
+int sum(void);
 void main()
 {
     int s;
@@ -11,11 +11,11 @@ int sum()
 {
     int a=5,b=7,sum=0;
     sum=a+b;
-    return sum,a,b;
+    return sum ;
     //printf("Hi");
-}*/
+}
 
-char sum(void);
+/*char sum(void);
 void main()
 {
     char s;
@@ -30,5 +30,5 @@ char sum()
     return 'a','0','i'  ;
     return sum;
     //printf("Hi");
-}
+}*/
 

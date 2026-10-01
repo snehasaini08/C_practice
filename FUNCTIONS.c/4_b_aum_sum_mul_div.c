@@ -23,7 +23,7 @@ void sub()
    printf("Enter a and b: ");
    scanf("%d%d",&a,&b);
    sub=a-b;
-   printf("sum=%d\n",sub);
+   printf("sub=%d\n",sub);
 }
 
 void mul()
@@ -32,7 +32,7 @@ void mul()
    printf("Enter a and b: ");
    scanf("%d%d",&a,&b);
    mul=a*b;
-   printf("sum=%d\n",mul);
+   printf("mul=%d\n",mul);
 }
 
 void div()
